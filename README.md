@@ -10,4 +10,6 @@ Live Site: https://abhijith-e0.github.io/responsive-discord/
 
 ![Discord Landing Page](./images/screenshot1.png)
 
-![Discord Landing Page](./images/)
+![Discord Landing Page](./images/screenshot3.png)
+
+![Discord Landing Page](./images/screenshot4.png)
