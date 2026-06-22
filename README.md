@@ -4,7 +4,7 @@ A responsive clone of the Discord landing page built using HTML and CSS. This pr
 
 ## Demo
 
-Live Site: 
+Live Site: https://abhijith-e0.github.io/responsive-discord/
 
 ## Screenshot
 
